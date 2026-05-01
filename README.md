@@ -4,12 +4,21 @@
   <h1>3300D-pushback</h3>
   <p>combined CAD &amp; code &amp; other stuff for 3300D's 2025-26 season of the VEX robotics competition</p>
 </div>
-<br>
-<br>
 
 this is a bot i made for the 2025-26 VEX robotics competition, [Push Back](https://www.youtube.com/watch?v=ocmONiVun9M) <br/>
 this is my 2nd year in vex robotics and i personally did all the code, design & like 90% of the build (i have a team lol they just dont do much :p)<br/>
 its not too good but it got us 9th at provincials and 13th at [Mecha Mayhem](https://www.mechamayhem.ca/) (the largest robotics competition in canada)
+
+<br>
+
+also although both code and CAD are in this repo, they arent pushed directly here when edited. if i happen to make any changes and forgor to update this repo, you can find the up to date versions here:<br>
+source for code can be found [here](https://github.com/GRA5S/3300d-vexide)<br>
+source for CAD can be found [here](https://cad.onshape.com/documents/5119595eb305ddd0ded9cce6/w/9c50d24c055f9419788323cd/e/6ffd4b0e6b945679450c4a8e)<br>
+<br>
+also more info about both can be found in their respective readmes:<br>
+[cad](cad/README.md)<br>
+[code](code/README.md)
+<br>
 
 ## Gallery:
 <h6> (images in somewhat chronological order other than the first 2) </h6>
