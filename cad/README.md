@@ -76,3 +76,9 @@ so then i cadded some plastic to make it work better
 
 <img width="602" height="800" alt="image" src="https://github.com/user-attachments/assets/386a5a43-633e-4c11-a370-28cbcdc9686e" />
 
+thaat helped a bit but what really worked is covering the roller with slipmat so it could slip across the blocks when theyre in the intake but still have enough grip to send them out when scoring
+
+after dat i realized the second roller was toooo close to the curve one so it kept getting stuck there
+
+therefore i moved it one whole hole down (0.5in) and it worked! :D except now the opposite problem happened and at a certain spot there was no rollers touching the blocks so if only one came in then it doesnt move at all :(
+
