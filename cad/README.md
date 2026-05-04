@@ -82,3 +82,28 @@ after dat i realized the second roller was toooo close to the curve one so it ke
 
 therefore i moved it one whole hole down (0.5in) and it worked! :D except now the opposite problem happened and at a certain spot there was no rollers touching the blocks so if only one came in then it doesnt move at all :(
 
+so i also added another roller cuz my ahh is too lazy to figure out how to change the distances and sizes of those two rollers for them to tranfer ts perfectly
+
+also later made it triangular flexwheels instead of a rubber band roller cuz the bands kept getting stuck on shi (dont ask why they're triangles i just thought it looked funi)
+<img width="948" height="1260" alt="image" src="https://github.com/user-attachments/assets/3456bb53-6d1d-407e-bc83-cdaf761a38a0" />
+
+i think dats all for the 2nd stage
+
+# last stage intake 
+
+this is the part that actually spits out blocks into the goals 
+
+originally it was just kinda a band roller at the end with nothing on top but that was fucked cuz theres no force pushing the ball out since it barely contacts anything + when you only push it from the bottom then it has a backspin that pushes it back towards the intake somewhat when u actuallly spit it out
+
+u can see what i mean in this photo
+<img width="948" height="1260" alt="image" src="https://github.com/user-attachments/assets/05a7d434-ffd2-4553-9000-0c12457761c8" />
+also this means you cant just run all of the intake other than the last roller to hoard blocks before pushing them into the gaol, you kinda just gotta tap the intake button yk since the last roller was chained tot he other one
+
+so that allowed me to realize this was stupid and i should make them seperate + have smth on top that pushes it as well so it doesnt backspin
+
+<img width="948" height="1260" alt="image" src="https://github.com/user-attachments/assets/d271dd3a-f555-4c3c-9c8d-3d87c9e09a77" />
+
+started that with what you see in this imsage, dont ask why the wheels are triangles
+
+this was still kinda shit cuz if u can see i used one of them thin motors that have half the power
+
