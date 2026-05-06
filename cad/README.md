@@ -73,8 +73,9 @@ so then we js fuckin stuck some zipties on ti and that was a temp fix that worke
 but now it kept getting stuck cuz the mesh was pushing down on the blocks as the roller tried to turn like i said before
 
 so then i cadded some plastic to make it work better 
-
-<img width="602" height="800" alt="image" src="https://github.com/user-attachments/assets/386a5a43-633e-4c11-a370-28cbcdc9686e" />
+<div align="center">
+<img height="500" src="https://github.com/user-attachments/assets/386a5a43-633e-4c11-a370-28cbcdc9686e">
+</div>
 
 thaat helped a bit but what really worked is covering the roller with slipmat so it could slip across the blocks when theyre in the intake but still have enough grip to send them out when scoring
 
@@ -85,8 +86,9 @@ therefore i moved it one whole hole down (0.5in) and it worked! :D except now th
 so i also added another roller cuz my ahh is too lazy to figure out how to change the distances and sizes of those two rollers for them to tranfer ts perfectly
 
 also later made it triangular flexwheels instead of a rubber band roller cuz the bands kept getting stuck on shi (dont ask why they're triangles i just thought it looked funi)
-<img width="948" height="1260" alt="image" src="https://github.com/user-attachments/assets/3456bb53-6d1d-407e-bc83-cdaf761a38a0" />
-
+<div align="center">
+<img height="500" src="https://github.com/user-attachments/assets/3456bb53-6d1d-407e-bc83-cdaf761a38a0">
+</div>
 i think dats all for the 2nd stage
 
 # last stage intake 
@@ -96,14 +98,26 @@ this is the part that actually spits out blocks into the goals
 originally it was just kinda a band roller at the end with nothing on top but that was fucked cuz theres no force pushing the ball out since it barely contacts anything + when you only push it from the bottom then it has a backspin that pushes it back towards the intake somewhat when u actuallly spit it out
 
 u can see what i mean in this photo
-<img width="948" height="1260" alt="image" src="https://github.com/user-attachments/assets/05a7d434-ffd2-4553-9000-0c12457761c8" />
+<div align="center">
+<img height="500" src="https://github.com/user-attachments/assets/05a7d434-ffd2-4553-9000-0c12457761c8">
+</div>
 also this means you cant just run all of the intake other than the last roller to hoard blocks before pushing them into the gaol, you kinda just gotta tap the intake button yk since the last roller was chained tot he other one
 
 so that allowed me to realize this was stupid and i should make them seperate + have smth on top that pushes it as well so it doesnt backspin
-
-<img width="948" height="1260" alt="image" src="https://github.com/user-attachments/assets/d271dd3a-f555-4c3c-9c8d-3d87c9e09a77" />
+<div align="center">
+<img height="500" src="https://github.com/user-attachments/assets/d271dd3a-f555-4c3c-9c8d-3d87c9e09a77">
+</div>
 
 started that with what you see in this imsage, dont ask why the wheels are triangles
 
 this was still kinda shit cuz if u can see i used one of them thin motors that have half the power
+
+and then i tried to do the other part on top and realized its hard asf to transfer power to those wheels on top cuz its gotta be chained and geared up but it pivots but the wheel isnt on the pivot 
+
+but i did it with the shi i show here:
+
+https://github.com/user-attachments/assets/1910ec25-a6a6-4131-bc14-0ef58d5d1874
+
+oh also i forgor to mention i geared it up from 200rpm to 600rpm cuz 200 is real slow + if the top is faster then it spins forward rather than back yk
+
 
