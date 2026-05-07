@@ -126,7 +126,9 @@ its good enough that it can get blocks out although not very far or with much po
 
 because of that i also made that use a full motor instead of a half motor and chained it to part of the 2nd stage 
 
-<img width="425" height="378" alt="image" src="https://github.com/user-attachments/assets/cd789fc4-e504-4052-92ee-80e79b89aff4" />
+<div align="center">
+<img height="500" src="https://github.com/user-attachments/assets/cd789fc4-e504-4052-92ee-80e79b89aff4">
+</div>
 
 # wing
 
@@ -134,7 +136,9 @@ im skipping over the history i wanna FINISH THISSS
 
 anyway its basically a c channel mounted on the bot with a piston powering it and a stanoff on the end 
 
-<img width="931" height="1236" alt="image" src="https://github.com/user-attachments/assets/2524c944-7820-42cd-bb96-bd82d85a4b8a" />
+<div align="center">
+<img height="500" src="https://github.com/user-attachments/assets/2524c944-7820-42cd-bb96-bd82d85a4b8a">
+</div>
 
 its not that deep its the same as what everyone else uses
 
@@ -142,12 +146,15 @@ i did change it to a screw with spinning spacers instead of a standoff but thats
 
 main cool thing is the wing aliner, got this idea from a bucnhj of other teams but theres a long piece of plastic that touches th long goal and makes sure theres a donstant distance between the bot and the goal so it can wing 
 
-<img width="339" height="173" alt="image" src="https://github.com/user-attachments/assets/6b9ca19f-dcee-485d-a73d-75ad6d6d9584" />
+<div align="center">
+<img height="500" src="[https://github.com/user-attachments/assets/cd789fc4-e504-4052-92ee-80e79b89aff4](https://github.com/user-attachments/assets/6b9ca19f-dcee-485d-a73d-75ad6d6d9584)">
+</div>
 
 (also heres an image of it while we were making it but didnt have enough plastic so we used cardboard lol)
 
-<img width="612" height="813" alt="image" src="https://github.com/user-attachments/assets/327da4eb-c4d9-4aea-b41d-b90c9f03de78" />
-
+<div align="center">
+<img height="500" src="https://github.com/user-attachments/assets/327da4eb-c4d9-4aea-b41d-b90c9f03de78">
+</div>
 
 # matchloader 
 
@@ -159,9 +166,12 @@ lowk tho it broke like 5 times idk why we jsut keep replacing the plastic wtv
 
 originally also it was 1x1 l channel and that shi got bent SO hard so it was changed to c channel
 
-<img width="612" height="813" alt="image" src="https://github.com/user-attachments/assets/d924a857-4bd0-4d00-91ff-9f88f735ce7f" />
-
+<div align="center">
+<img height="500" src="https://github.com/user-attachments/assets/d924a857-4bd0-4d00-91ff-9f88f735ce7f">
+</div>
 
 and other small things like that but its basically the same
 
 
+|<img height="300" src="https://github.com/user-attachments/assets/2b87791b-20d4-48bd-81d2-14c9067c6840">|<img height="300" src="https://github.com/user-attachments/assets/37cc60ca-0329-4149-ad35-e29d4c126612">|<img height="300" src="https://github.com/user-attachments/assets/0141a1ee-5320-4531-b5e6-5034287a5a51">|
+|:-------------------------:|:-------------------------:|:-------------------------:|
