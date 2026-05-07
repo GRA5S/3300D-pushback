@@ -1,3 +1,5 @@
+# CAD/build readme
+
 this was made in onshape cuz uhh its kinda all i can use on linux lol (i perfer fusion but oh well)
 
 so erm im gonna break it down subsystem by subsystem.. there is like 6? subsystems in my eyes:
