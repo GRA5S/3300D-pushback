@@ -120,4 +120,48 @@ https://github.com/user-attachments/assets/1910ec25-a6a6-4131-bc14-0ef58d5d1874
 
 oh also i forgor to mention i geared it up from 200rpm to 600rpm cuz 200 is real slow + if the top is faster then it spins forward rather than back yk
 
+im gona skip over sum shit cuz im realizing that i really need to finish this up and ship but uhh everntually i ended up with a design that is just a piston powered (for moving up and down, theres nothing that spins on the top) top and a set of flexwheels on the bottom that just push it out
+
+its good enough that it can get blocks out although not very far or with much power, its just easier and less friction than what i had in that video
+
+because of that i also made that use a full motor instead of a half motor and chained it to part of the 2nd stage 
+
+<img width="425" height="378" alt="image" src="https://github.com/user-attachments/assets/cd789fc4-e504-4052-92ee-80e79b89aff4" />
+
+# wing
+
+im skipping over the history i wanna FINISH THISSS
+
+anyway its basically a c channel mounted on the bot with a piston powering it and a stanoff on the end 
+
+<img width="931" height="1236" alt="image" src="https://github.com/user-attachments/assets/2524c944-7820-42cd-bb96-bd82d85a4b8a" />
+
+its not that deep its the same as what everyone else uses
+
+i did change it to a screw with spinning spacers instead of a standoff but thats just qol so it slides in easier, its not much difference
+
+main cool thing is the wing aliner, got this idea from a bucnhj of other teams but theres a long piece of plastic that touches th long goal and makes sure theres a donstant distance between the bot and the goal so it can wing 
+
+<img width="339" height="173" alt="image" src="https://github.com/user-attachments/assets/6b9ca19f-dcee-485d-a73d-75ad6d6d9584" />
+
+(also heres an image of it while we were making it but didnt have enough plastic so we used cardboard lol)
+
+<img width="612" height="813" alt="image" src="https://github.com/user-attachments/assets/327da4eb-c4d9-4aea-b41d-b90c9f03de78" />
+
+
+# matchloader 
+
+its just a piece of plastic pivoting on a thingy that goes down
+
+same as everyone else 
+
+lowk tho it broke like 5 times idk why we jsut keep replacing the plastic wtv
+
+originally also it was 1x1 l channel and that shi got bent SO hard so it was changed to c channel
+
+<img width="612" height="813" alt="image" src="https://github.com/user-attachments/assets/d924a857-4bd0-4d00-91ff-9f88f735ce7f" />
+
+
+and other small things like that but its basically the same
+
 
